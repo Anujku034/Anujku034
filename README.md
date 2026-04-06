@@ -1,32 +1,32 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">Full-Stack (MERN) Developer | AI Enthusiast 🚀</h3>
+# 💫 Hi 👋, I'm Anuj Kumar
+**A passionate Full-Stack (MERN) Developer | AI Enthusiast from India 🇮🇳**
 
----
+Email Me 👉 ✉️ **anujku603@gmail.com** For Collaboration/Projects 😊
 
-## 👨‍💻 About Me
-- 🎓 B.Tech in AI & ML (NIET, Greater Noida)
-- 💻 MERN Stack Developer
-- 🔥 Solved **450+ DSA problems on LeetCode**
-- 🌱 Exploring scalable backend & real-time systems
-- ⚡ Strong in problem solving & system design basics
+- 🔭 **I’m currently working on:** Scalable Web Applications & Real-time Systems  
+- 🌱 **I’m currently learning:** System Design & Advanced Backend  
+- 👯 **I’m looking to collaborate on:** MERN Stack & AI-based Projects  
+- 💬 **Ask me about:** Web Development, DSA, DBMS  
+- 📫 **How to reach me:** anujku603@gmail.com  
+- ⚡ **Fun fact:** Solved 450+ DSA problems on LeetCode 🚀  
 
 ---
 
 ## 🚀 Projects
 
 ### 💬 CollabSphere – Real-Time Communication Platform
-- Built using **React, Node.js, Socket.IO**
-- 👥 Role-based access (Admin/User)
-- 🔐 JWT Authentication + Cookies
-- 📩 Features: Channels, Messaging, Notifications
+- Built with **React, Node.js, Socket.IO**
+- Role-based access (Admin/User)
+- JWT Authentication + Cookies
+- Features: Messaging, Channels, Notifications  
 
 ---
 
 ### 🤖 TalentMatch AI – Resume Analyzer
 - AI-powered web app using **Gemini API**
-- 📄 Resume vs Job Description analysis
-- ⚡ Fast backend with optimized processing
-- 🎯 Suggests skill improvements
+- Resume vs Job Description analysis  
+- Suggests missing skills  
+- Fast & optimized backend  
 
 ---
 
@@ -36,13 +36,27 @@
 
 ---
 
-## 💻 Tech Stack:
+[![](https://visitcount.itsvg.in/api?id=Anujku034&icon=1&color=4)](https://visitcount.itsvg.in)
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anujku034&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+# 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -52,17 +66,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Anujku034&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Anujku034&theme=dark&hide_border=false)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anujku034&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Anujku034&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujku034&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anujku034&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -73,7 +80,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anujku034&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Anujku034&icon=0&color=0)](https://visitcount.itsvg.in)
