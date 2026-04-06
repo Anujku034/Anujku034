@@ -67,9 +67,11 @@ Email Me 👉 ✉️ **anujku603@gmail.com** For Collaboration/Projects 😊
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anujku034&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anujku034&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujku034&theme=dark&hide_border=false&layout=compact)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anujku034&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anujku034&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujku034&layout=compact&theme=radical)
 
 ---
 
