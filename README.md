@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **anujku603@gmail.com** For Collaboration/Projects 😊
 - 🔭 **I’m currently working on:** Scalable Web Applications & Real-time Systems  
 - 🌱 **I’m currently learning:** System Design & Advanced Backend  
 - 👯 **I’m looking to collaborate on:** MERN Stack & AI-based Projects  
-- 💬 **Ask me about:** Web Development, DSA, DBMS  
+- 💬 **Ask me about:** Web Development, DSA, DBMS   
 - 📫 **How to reach me:** anujku603@gmail.com  
 - ⚡ **Fun fact:** Solved 450+ DSA problems on LeetCode 🚀  
 
