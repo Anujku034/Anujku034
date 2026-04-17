@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Anuj Kumar  
+# 💫 Hi 👋, I'm Anuj Kumar   
 **A passionate Full-Stack (MERN) Developer | AI Enthusiast from India 🇮🇳** 
 
 Email Me 👉 ✉️ **anujku603@gmail.com** For Collaboration/Projects 😊 
