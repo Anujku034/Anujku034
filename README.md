@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **[anujku603@gmail.com](mailto:anujku603@gmail.com)** For C
 * 👯 **I’m looking to collaborate on:** MERN Stack & AI-based Projects
 * 💬 **Ask me about:** MERN Stack, REST APIs, JWT Authentication, DSA, DBMS, OOPs
 * 📫 **How to reach me:** [anujku603@gmail.com](mailto:anujku603@gmail.com)
-* ⚡ **Fun fact:** Solved 470+ DSA problems on LeetCode with a Contest Rating of 1493+ 🚀
+* ⚡ **Fun fact:** Solved 500+ DSA problems on LeetCode with a Contest Rating of 1493+ 🚀
 
 ---
 
