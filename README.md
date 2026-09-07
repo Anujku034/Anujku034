@@ -1,170 +1,174 @@
+<div align="center">
+
 # 👋 Hi, I'm Anuj Kumar
 
 ### 💻 Software Developer | MERN Stack | React.js | Java | DSA
 
-B.Tech student in **Artificial Intelligence and Machine Learning** at
-**Noida Institute of Engineering and Technology (NIET)**.
+<p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-500%2B-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="mailto:anujku603@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
-I am passionate about building **full-stack web applications**, solving
-**Data Structures & Algorithms problems**, and exploring **AI-powered applications**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=white&animation=fadeIn"/>
 
----
+</div>
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Artificial Intelligence and Machine Learning
-- 💻 Interested in Full-Stack Development and Software Engineering
-- ⚛️ Working with React.js and the MERN Stack
-- 🧠 Solved **500+ DSA problems on LeetCode**
-- 🏆 LeetCode Contest Rating: **1493+**
-- 🤖 Exploring AI integration using Google Gemini AI
-- 🔐 Interested in Authentication, Authorization and REST APIs
-- 🛠️ Experienced with Git, GitHub, Postman and VS Code
+🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
+🏫 Noida Institute of Engineering and Technology (NIET)  
+📅 2023 – 2027 | **CGPA: 8.02/10**
+
+💻 Full-Stack Developer | ⚛️ React.js | 🟢 Node.js | 🍃 MongoDB  
+🤖 AI Application Development | 🧠 DSA & Problem Solving  
+🔥 **500+ LeetCode Problems** | 🏆 **1493+ Contest Rating**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Languages
-- Java
-- JavaScript
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=7"/>
+</p>
 
-### 🎨 Frontend
-- React.js
-- HTML5
-- CSS3
-- Responsive Web Design
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### 🗄️ Database
-- MongoDB
-- MySQL
-
-### 🤖 AI
-- Google Gemini AI
-- AI-assisted Development
-
-### 🔧 Developer Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- MongoDB Compass
-
-### 📚 Core Concepts
-- Data Structures & Algorithms
-- OOPs
-- DBMS
-- Operating Systems
-- Computer Networks
-- REST APIs
-- Authentication & Authorization
-- Problem Solving
-- Debugging
+**AI:** Google Gemini AI  
+**Core:** DSA • OOPs • DBMS • OS • Computer Networks • REST APIs  
+**Security:** JWT • Authentication • Authorization
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 InterviewIQ – Virtual Interview Prep
-
+### 🤖 InterviewIQ
 **AI-Powered Interview Preparation Platform**
 
-**Tech Stack:** MERN Stack, Google Gemini AI, Razorpay, MongoDB
+`MERN` `Gemini AI` `MongoDB` `Razorpay`
 
-- Built an AI-powered interview preparation platform using the MERN stack.
-- Integrated Google Gemini AI for personalized mock interviews.
-- Implemented resume parsing and dynamic question generation.
-- Built adaptive interview workflows with real-time timers.
-- Implemented automated answer evaluation and scoring.
-- Integrated Razorpay payment gateway with secure payment verification.
-- Developed analytics dashboards with downloadable PDF reports.
+- AI-powered personalized mock interviews
+- Resume parsing & dynamic question generation
+- Real-time timers and automated answer evaluation
+- Scoring based on correctness, communication & confidence
+- Razorpay payment integration
+- Analytics dashboard with downloadable PDF reports
 
-🔗 **Live Demo:** [View Project](#)
-
----
-
-## 🐞 Issue Tracker System
-
-**Full-Stack Project and Issue Management Platform**
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, REST APIs
-
-- Developed a full-stack issue tracking platform.
-- Implemented JWT-based authentication.
-- Added role-based access control for Admin, Developer and Reporter.
-- Built RESTful APIs for issue creation, assignment and status updates.
-- Implemented project management and comment discussions.
-- Designed MongoDB schemas for users, projects and issues.
-- Used Postman and backend logs for API debugging.
-
-🔗 **Live Demo:** [View Project](#)
+🔗 **Live Demo:** [View Project](YOUR_INTERVIEWIQ_DEMO_LINK)
 
 ---
 
-## 💰 Expense Tracker
+### 🐞 Issue Tracker System
+**Full-Stack Project & Issue Management Platform**
 
-**Personal Expense and Money Management Web Application**
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
 
-**Tech Stack:** HTML5, CSS3, JavaScript, LocalStorage
+- Project, issue and developer management
+- JWT authentication & role-based access control
+- Admin, Developer and Reporter roles
+- REST APIs for issue creation, assignment & status updates
+- MongoDB schemas for users, projects and issues
+- API debugging using Postman
 
-- Developed a responsive expense tracking application.
-- Implemented registration and login/logout functionality.
-- Added transaction management and personalized dashboards.
-- Implemented add money, take money and expense tracking.
-- Added automatic balance calculation.
-- Implemented monthly transaction filtering.
-- Used browser LocalStorage for user-specific data persistence.
-
-🔗 **Live Demo:** [View Project](https://anujku034.github.io/Expense-Tracker/LoginPage/TrackerSystem.html)
+🔗 **Live Demo:** [View Project](YOUR_ISSUE_TRACKER_DEMO_LINK)
 
 ---
 
-# 🧠 Problem Solving
+### 💰 Expense Tracker
+**Personal Expense & Money Management Application**
 
-I regularly practice Data Structures & Algorithms to improve my
+`HTML5` `CSS3` `JavaScript` `LocalStorage`
+
+- Registration & Login/Logout
+- Add money and expense tracking
+- Automatic balance calculation
+- Monthly transaction filtering
+- Transaction deletion
+- User-specific LocalStorage persistence
+- Responsive UI
+
+🔗 **Live Demo:** [Open Expense Tracker](https://anujku034.github.io/Expense-Tracker/LoginPage/TrackerSystem.html)
+
+---
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+### 🔥 500+ DSA Problems Solved
+
+### 🏆 1493+ LeetCode Contest Rating
+
+</div>
+
+I regularly practice **Data Structures & Algorithms** to strengthen my
 problem-solving and logical thinking skills.
 
-- 🟢 **500+ LeetCode Problems Solved**
-- 🏆 **1493+ LeetCode Contest Rating**
+---
 
-🔗 [LeetCode Profile](#)
+## 📜 Certifications
+
+🎨 **Responsive Web Design** — freeCodeCamp, 2025  
+🧠 **JavaScript Algorithms & Data Structures** — freeCodeCamp, 2025  
+🚀 **Postman API Fundamentals Student Expert** — Postman Academy
 
 ---
 
-# 📜 Certifications
+## 📊 GitHub Stats
 
-- 📘 Responsive Web Design Certification – freeCodeCamp (2025)
-- 📘 JavaScript Algorithms and Data Structures – freeCodeCamp (2025)
-- 📘 Postman API Fundamentals Student Expert – Postman Academy
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-# 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-# 📫 Connect With Me
+## 🔥 GitHub Streak
 
-📧 **Email:** anujku603@gmail.com
+<div align="center">
 
-💼 **LinkedIn:** [Connect with me](#)
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-🐙 **GitHub:** [Visit my GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-
-🧩 **LeetCode:** [View my LeetCode](#)
+</div>
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+## 📫 Connect With Me
 
-### Thanks for visiting my profile! 🚀
+<div align="center">
+
+<a href="mailto:anujku603@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-anujku603%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something amazing together 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
