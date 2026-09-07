@@ -1,104 +1,170 @@
-# 💫 Hi 👋, I'm Anuj Kumar
+# 👋 Hi, I'm Anuj Kumar
 
-**A passionate Full-Stack (MERN) Developer | AI Enthusiast from India 🇮🇳**
+### 💻 Software Developer | MERN Stack | React.js | Java | DSA
 
-Email Me 👉 ✉️ **[anujku603@gmail.com](mailto:anujku603@gmail.com)** For Collaboration/Projects 😊
+B.Tech student in **Artificial Intelligence and Machine Learning** at
+**Noida Institute of Engineering and Technology (NIET)**.
 
-* 🔭 **I’m currently working on:** Scalable Web Applications & AI-Powered Solutions
-* 🌱 **I’m currently learning:** System Design & Advanced Backend Development
-* 👯 **I’m looking to collaborate on:** MERN Stack & AI-based Projects
-* 💬 **Ask me about:** MERN Stack, REST APIs, JWT Authentication, DSA, DBMS, OOPs
-* 📫 **How to reach me:** [anujku603@gmail.com](mailto:anujku603@gmail.com)
-* ⚡ **Fun fact:** Solved 500+ DSA problems on LeetCode with a Contest Rating of 1493+ 🚀
+I am passionate about building **full-stack web applications**, solving
+**Data Structures & Algorithms problems**, and exploring **AI-powered applications**.
 
 ---
 
-## 🚀 Projects
+## 🚀 About Me
 
-### 🎯 InterviewIQ – AI-Powered Interview Preparation Platform
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning
+- 💻 Interested in Full-Stack Development and Software Engineering
+- ⚛️ Working with React.js and the MERN Stack
+- 🧠 Solved **500+ DSA problems on LeetCode**
+- 🏆 LeetCode Contest Rating: **1493+**
+- 🤖 Exploring AI integration using Google Gemini AI
+- 🔐 Interested in Authentication, Authorization and REST APIs
+- 🛠️ Experienced with Git, GitHub, Postman and VS Code
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+- Java
+- JavaScript
+- SQL
+
+### 🎨 Frontend
+- React.js
+- HTML5
+- CSS3
+- Responsive Web Design
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### 🗄️ Database
+- MongoDB
+- MySQL
+
+### 🤖 AI
+- Google Gemini AI
+- AI-assisted Development
+
+### 🔧 Developer Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- MongoDB Compass
+
+### 📚 Core Concepts
+- Data Structures & Algorithms
+- OOPs
+- DBMS
+- Operating Systems
+- Computer Networks
+- REST APIs
+- Authentication & Authorization
+- Problem Solving
+- Debugging
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 InterviewIQ – Virtual Interview Prep
+
+**AI-Powered Interview Preparation Platform**
 
 **Tech Stack:** MERN Stack, Google Gemini AI, Razorpay, MongoDB
 
-🔗 **Live Demo:** https://project-01-client.onrender.com/
+- Built an AI-powered interview preparation platform using the MERN stack.
+- Integrated Google Gemini AI for personalized mock interviews.
+- Implemented resume parsing and dynamic question generation.
+- Built adaptive interview workflows with real-time timers.
+- Implemented automated answer evaluation and scoring.
+- Integrated Razorpay payment gateway with secure payment verification.
+- Developed analytics dashboards with downloadable PDF reports.
 
-* Built an AI-powered interview preparation platform using the MERN stack integrated with Google Gemini AI.
-* Implemented resume parsing and dynamic question generation by extracting candidate skills, projects, and experience from uploaded resumes.
-* Designed adaptive interview workflows with real-time timers, automated answer evaluation, and scoring based on correctness, communication, and confidence.
-* Integrated Razorpay payment gateway for premium features.
-* Developed analytics dashboards with downloadable PDF performance reports.
+🔗 **Live Demo:** [View Project](#)
 
 ---
 
-### 📋 Issue Tracker System – Full-Stack Project & Issue Management Platform
+## 🐞 Issue Tracker System
+
+**Full-Stack Project and Issue Management Platform**
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, REST APIs
 
-🔗 **Live Demo:** https://tracker-7s62.onrender.com/
+- Developed a full-stack issue tracking platform.
+- Implemented JWT-based authentication.
+- Added role-based access control for Admin, Developer and Reporter.
+- Built RESTful APIs for issue creation, assignment and status updates.
+- Implemented project management and comment discussions.
+- Designed MongoDB schemas for users, projects and issues.
+- Used Postman and backend logs for API debugging.
 
-* Developed a full-stack issue tracking platform enabling efficient project, issue, and developer management workflows.
-* Implemented secure JWT-based authentication and role-based access control for Admin, Developer, and Reporter roles.
-* Built scalable REST APIs for issue creation, assignment, status updates, project management, and comment discussions.
-* Designed MongoDB schemas for users, projects, and issues for efficient data management.
-* Developed responsive React.js interfaces and integrated backend services for seamless collaboration and issue tracking.
-
----
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/anuj-kumar-29b6512a1)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:anujku603@gmail.com)
+🔗 **Live Demo:** [View Project](#)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Anujku034\&icon=1\&color=4)](https://visitcount.itsvg.in)
+## 💰 Expense Tracker
 
-<!-- Snake Animation -->
+**Personal Expense and Money Management Web Application**
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
-</div>
+**Tech Stack:** HTML5, CSS3, JavaScript, LocalStorage
 
----
+- Developed a responsive expense tracking application.
+- Implemented registration and login/logout functionality.
+- Added transaction management and personalized dashboards.
+- Implemented add money, take money and expense tracking.
+- Added automatic balance calculation.
+- Implemented monthly transaction filtering.
+- Used browser LocalStorage for user-specific data persistence.
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Anujku034\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
-
----
-
-# 💻 Tech Stack:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+🔗 **Live Demo:** [View Project](https://anujku034.github.io/Expense-Tracker/LoginPage/TrackerSystem.html)
 
 ---
 
-# 📊 GitHub Stats:
+# 🧠 Problem Solving
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anujku034\&show_icons=true\&theme=radical\&count_private=true\&include_all_commits=true)
+I regularly practice Data Structures & Algorithms to improve my
+problem-solving and logical thinking skills.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anujku034\&theme=radical)
+- 🟢 **500+ LeetCode Problems Solved**
+- 🏆 **1493+ LeetCode Contest Rating**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujku034\&layout=compact\&theme=radical)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+🔗 [LeetCode Profile](#)
 
 ---
 
-### 🔝 Top Contributed Repo
+# 📜 Certifications
 
-![](https://github-contributor-stats.vercel.app/api?username=Anujku034\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+- 📘 Responsive Web Design Certification – freeCodeCamp (2025)
+- 📘 JavaScript Algorithms and Data Structures – freeCodeCamp (2025)
+- 📘 Postman API Fundamentals Student Expert – Postman Academy
+
+---
+
+# 📊 GitHub Stats
+
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** anujku603@gmail.com
+
+💼 **LinkedIn:** [Connect with me](#)
+
+🐙 **GitHub:** [Visit my GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+
+🧩 **LeetCode:** [View my LeetCode](#)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
+
+### Thanks for visiting my profile! 🚀
