@@ -133,7 +133,6 @@
 - 🔄 Currency swap functionality
 - 📊 Live exchange rates
 - 💵 Dynamic currency symbols
-- 🚩 Dynamic currency flags
 - 📱 Responsive UI
 - ⚡ React Hooks and API integration
 
