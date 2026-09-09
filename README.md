@@ -144,9 +144,9 @@
 
 <div align="center">
 
-## 🔥 500+ DSA Problems Solved
+### 🔥 500+ DSA Problems Solved
 
-## 🏆 1493+ LeetCode Contest Rating
+### 🏆 1493+ LeetCode Contest Rating
 
 </div>
 
@@ -181,17 +181,17 @@ problem-solving, logical thinking and coding skills.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anujku034&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Anujku034&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujku034&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujku034&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
