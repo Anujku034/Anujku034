@@ -8,7 +8,7 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/anuj_034/)">
     <img src="https://img.shields.io/badge/LeetCode-500%2B-F7A41D?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://github.com/Anujku034">
