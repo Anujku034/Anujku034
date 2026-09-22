@@ -5,7 +5,7 @@
 ### 💻 Software Developer | MERN Stack | React.js | Java | DSA
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/anuj-kumar-29b6512a1/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/anuj_034/">
@@ -80,7 +80,7 @@
 - 📈 Analytics dashboard
 - 📥 Downloadable PDF reports
 
-🔗 **Live Demo:** [View Project](YOUR_INTERVIEWIQ_DEMO_LINK)
+🔗 **Live Demo:** [View Project](https://project-01-client.onrender.com/)
 
 ---
 
@@ -99,7 +99,7 @@
 - 🗄️ MongoDB data modeling
 - 🧪 API testing and debugging using Postman
 
-🔗 **Live Demo:** [View Project](YOUR_ISSUE_TRACKER_DEMO_LINK)
+🔗 **Live Demo:** [View Project]()
 
 ---
 
